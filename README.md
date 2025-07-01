@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Himanshu Kumar!
 
-🎓 B.Tech CSE (IoT) student at Noida Institute of Engineering and Technology (2022–2026)  
-📍 Passionate about DevOps, AI, IoT, and Full Stack Development  
-🚀 Always learning and building impactful tech solutions
+🎓 B.Tech CSE (IoT) student at **Noida Institute of Engineering and Technology** (2022–2026)  
+📍 Passionate about **DevOps**, **Cloud**, **AI**, **IoT**, and **Full Stack Development**  
+🚀 Always learning and building impactful, scalable tech solutions
 
 ---
 
@@ -25,40 +25,40 @@
 
 ## 💼 Internship Experience
 
-### 🧪 DevOps Intern – Ericsson (Jul 2024 – Sep 2024)
+### 🧪 DevOps Intern – Ericsson, Noida (Jul 2024 – Sep 2024)
 - Worked with GitLab CI/CD pipelines and runners to automate deployment and testing.
-- Implemented feature classification on large datasets for improved model performance.
-- Integrated Vector DBs for high-dimensional data retrieval.
-- Built a Retrieval-Augmented Generation (RAG) model using Hugging Face APIs.
-- Used SonarQube for code quality and security inspection.
-- Managed dependencies using Dependency Tracker and Black Duck.
+- Built feature classification pipelines for predictive analytics on complex datasets.
+- Integrated high-dimensional Vector Databases for optimized data retrieval.
+- Developed a Retrieval-Augmented Generation (RAG) model using Hugging Face.
+- Used SonarQube for continuous code quality and maintainability inspection.
+- Managed open-source dependencies via Black Duck and Dependency Tracker.
 
 ---
 
 ## 💡 Projects
 
 ### 🤖 AI Agent (ChatGPT API)
-- A ChatGPT-powered automation tool that dynamically builds apps from input prompts.
-- Used function calling, Python & JavaScript.
-- 🔗 [GitHub Repo](https://github.com/Himanshucc01)
+- A ChatGPT-powered tool that dynamically builds apps based on user requirements.
+- Uses function calling, Python, and JavaScript for interactive flows.
+- 🔗 [View on GitHub](https://github.com/Himanshucc01)
 
 ### 🧾 Event Registration System
-- Full-stack web app built with Flask + MySQL for managing events.
-- Features user login, admin dashboard, event creation & management.
-- 🔗 [GitHub Repo](https://github.com/Himanshucc01)
+- A full-stack web app for event sign-ups with admin dashboard support.
+- Stack: Flask, MySQL, HTML, CSS, JavaScript
+- 🔗 [View on GitHub](https://github.com/Himanshucc01)
 
 ### 🏠 IoT Smart Home Automation using ESP32
-- Created a smart home system using DHT11, PIR, and ESP32 modules.
-- Centralized control of lights, locks, cameras, and appliances via smartphone.
-- Focused on energy efficiency, security, and automation.
+- Built a smart automation system using ESP32, PIR, and DHT11 sensors.
+- Focused on energy efficiency, security, and seamless user control via mobile.
+- Stack: Embedded C, IoT Cloud, Sensors
 
 ---
 
 ## 🏆 Achievements
 
-- 🧠 Participated in **Google Cloud Arcade 2024**
+- ✅ Participated in **Google Cloud Arcade 2024**
 - ☁️ Completed **Google Gen AI Cloud Study Jam**
-- 🎖️ Earned **Microsoft Odyssey AI Level 1 & 2 Certifications**
+- 🏅 Earned **Microsoft Odyssey AI Level 1 & 2 Certifications**
 
 ---
 
@@ -76,7 +76,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/himanshukumar03/)
 - 💻 [GitHub](https://github.com/Himanshucc01)
-- 📧 Email: [himanshukumar332005@gmail.com](mailto:himanshukumar332005@gmail.com)
+- 📧 [Email](mailto:himanshukumar332005@gmail.com)
 - 👨‍💻 [GeeksforGeeks](https://www.geeksforgeeks.org/user/Himanshu001)
 - 🧠 [LeetCode](https://leetcode.com/Himanshu061)
 - 💡 [HackerRank](https://www.hackerrank.com/Himanshu061)
